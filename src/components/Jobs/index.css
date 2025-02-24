@@ -1,0 +1,36 @@
+.jobby-jobs-route {
+  background-color: #000000;
+  padding: 40px;
+}
+.jobs-search-input {
+  height: 40px;
+  width: 400px;
+  background-color: transparent;
+  border: 1px solid #64748b;
+  outline: none;
+  color: #ffffff;
+  padding-left: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.filters-and-jobs-container {
+  display: flex;
+}
+.filter-container {
+  width: 600px;
+}
+.ul-list {
+  padding-left: 0px;
+  list-style-type: none;
+}
+.search-btn {
+  height: 40px;
+  width: 40px;
+  background-color: #202020;
+  border: 1px solid #64748b;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.container {
+  padding-left: 20px;
+}

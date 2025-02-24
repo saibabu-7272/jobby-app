@@ -1,0 +1,14 @@
+.similar-job-card {
+  height: 500px;
+  width: 300px;
+  background-color: #272727;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.space-evenly {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

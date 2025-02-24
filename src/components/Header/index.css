@@ -1,0 +1,40 @@
+.jobby-navbar {
+  background-color: #202020;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 0px;
+}
+.jobby-navbar-website-logo {
+  height: 50px;
+}
+.jobby-navbar-tab-icon {
+  font-size: 30px;
+  color: #f1f5f9;
+}
+.jobby-navbar-icon-tabs-container {
+  display: none;
+  align-items: center;
+  width: 40%;
+  justify-content: space-evenly;
+}
+.jobby-navbar-text-tabs-container {
+  display: flex;
+  align-items: center;
+}
+.jobby-navbar-tab-text {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 18px;
+}
+.jobby-logout-button {
+  border: none;
+  background-color: #6366f1;
+  color: #ffffff;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  font-size: 18px;
+}

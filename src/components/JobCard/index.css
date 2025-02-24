@@ -1,0 +1,32 @@
+.jobby-jobCard {
+  color: #ffffff;
+  background-color: #202020;
+  font-family: 'Roboto';
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.company-logo {
+  height: 60px;
+  margin-right: 10px;
+}
+.job-top-container {
+  display: flex;
+  align-items: center;
+}
+.job-midle-container {
+  justify-content: space-between;
+  border-bottom: 1px solid #64748b;
+}
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
+}
+
+.small-icon {
+  font-size: 22px;
+  margin-right: 5px;
+}

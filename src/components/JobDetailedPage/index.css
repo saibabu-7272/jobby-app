@@ -1,0 +1,33 @@
+.JobDetailedPage-bg {
+  background-color: #000000;
+  padding: 20px;
+}
+.flex-row {
+  display: flex;
+  align-items: center;
+}
+.job-detailed-card {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 15px;
+}
+.space-betweeen {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+p {
+  margin-right: 10px;
+}
+.list-of-skills {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.skill-image {
+  height: 50px;
+}
+.siteLink {
+  color: #6366f1;
+}

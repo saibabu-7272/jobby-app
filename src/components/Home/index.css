@@ -1,0 +1,31 @@
+.jobby-home-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 130vh;
+  background-size: cover;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.jobby-find-jobs-button {
+  border: none;
+  background-color: #6366f1;
+  color: #ffffff;
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+.jobby-home-content-container {
+  width: 60%;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+.jobby-home-heading {
+  font-size: 60px;
+}
+.jobby-home-description {
+  font-size: 24px;
+}
